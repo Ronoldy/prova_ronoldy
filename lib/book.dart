@@ -29,7 +29,6 @@ class Book {
         genero: 'Distopia',
         avaliacao: 4.8,
       ),
-      // Pode adicionar mais livros aqui...
     ];
   }
 }
